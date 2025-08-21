@@ -9916,7 +9916,6 @@ let weaponsActive = 0
 let RailUICreated = 0
 let UICreated = 0
 let OnMenu = 0
-game.splash("IF GAME IS BROKEN, PLEASE PLAY VERSION UPLOADED ON IMPACT (TITLED: THE STARLESS SEA: GAME JAM) GAME SOMETIMES BREAKS WHEN SAVED AS PNG.")
 scene.setBackgroundImage(img`
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
     ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
